@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u https://github.com/fseverino1981/golang-toolkit`
+`go get -u github.com/fseverino1981/golang-toolkit`
